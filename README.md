@@ -1,4 +1,4 @@
-# Simple Resistive Circuits Using Java
+# Simple Resistive Circuits
 
 A desktop Java application for modelling, analyzing, and visualizing basic resistive circuits, helpful for electronics students and hobbyists.
 
